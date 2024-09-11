@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/taeung-portfolio/static/css/main.7a95f607.chunk.css",
-    "main.js": "/taeung-portfolio/static/js/main.c4ca6ef0.chunk.js",
-    "main.js.map": "/taeung-portfolio/static/js/main.c4ca6ef0.chunk.js.map",
-    "runtime-main.js": "/taeung-portfolio/static/js/runtime-main.bf1f0bb2.js",
-    "runtime-main.js.map": "/taeung-portfolio/static/js/runtime-main.bf1f0bb2.js.map",
-    "static/js/2.9a2180c5.chunk.js": "/taeung-portfolio/static/js/2.9a2180c5.chunk.js",
-    "static/js/2.9a2180c5.chunk.js.map": "/taeung-portfolio/static/js/2.9a2180c5.chunk.js.map",
-    "index.html": "/taeung-portfolio/index.html",
-    "precache-manifest.52b7712e7bc3e2433ff446bda59c56c7.js": "/taeung-portfolio/precache-manifest.52b7712e7bc3e2433ff446bda59c56c7.js",
-    "service-worker.js": "/taeung-portfolio/service-worker.js",
-    "static/css/main.7a95f607.chunk.css.map": "/taeung-portfolio/static/css/main.7a95f607.chunk.css.map",
-    "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/taeung-portfolio/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
-    "static/media/sad-icon.png": "/taeung-portfolio/static/media/sad-icon.b88924d5.png",
-    "static/media/your photo.png": "/taeung-portfolio/static/media/your photo.b9d7d448.png"
+    "main.css": "/taeung.github.io/static/css/main.7a95f607.chunk.css",
+    "main.js": "/taeung.github.io/static/js/main.1fe40411.chunk.js",
+    "main.js.map": "/taeung.github.io/static/js/main.1fe40411.chunk.js.map",
+    "runtime-main.js": "/taeung.github.io/static/js/runtime-main.468077da.js",
+    "runtime-main.js.map": "/taeung.github.io/static/js/runtime-main.468077da.js.map",
+    "static/js/2.9a2180c5.chunk.js": "/taeung.github.io/static/js/2.9a2180c5.chunk.js",
+    "static/js/2.9a2180c5.chunk.js.map": "/taeung.github.io/static/js/2.9a2180c5.chunk.js.map",
+    "index.html": "/taeung.github.io/index.html",
+    "precache-manifest.79468d2f1a09fb55ffe0d6f2264f0119.js": "/taeung.github.io/precache-manifest.79468d2f1a09fb55ffe0d6f2264f0119.js",
+    "service-worker.js": "/taeung.github.io/service-worker.js",
+    "static/css/main.7a95f607.chunk.css.map": "/taeung.github.io/static/css/main.7a95f607.chunk.css.map",
+    "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/taeung.github.io/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
+    "static/media/sad-icon.png": "/taeung.github.io/static/media/sad-icon.b88924d5.png",
+    "static/media/your photo.png": "/taeung.github.io/static/media/your photo.b9d7d448.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf1f0bb2.js",
+    "static/js/runtime-main.468077da.js",
     "static/js/2.9a2180c5.chunk.js",
     "static/css/main.7a95f607.chunk.css",
-    "static/js/main.c4ca6ef0.chunk.js"
+    "static/js/main.1fe40411.chunk.js"
   ]
 }
