@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ikalli.github.io/ReactFolio",
+  "homepage": "https://taeung.github.io/ReactFolio",
   "name": "react-blog",
   "version": "0.1.0",
   "private": true,
@@ -18,8 +18,8 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
