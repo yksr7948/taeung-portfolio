@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/taeung-portfolio/static/css/main.7a95f607.chunk.css",
-    "main.js": "/taeung-portfolio/static/js/main.c4ca6ef0.chunk.js",
-    "main.js.map": "/taeung-portfolio/static/js/main.c4ca6ef0.chunk.js.map",
+    "main.css": "/taeung-portfolio/static/css/main.4007c6d3.chunk.css",
+    "main.js": "/taeung-portfolio/static/js/main.6db9f24f.chunk.js",
+    "main.js.map": "/taeung-portfolio/static/js/main.6db9f24f.chunk.js.map",
     "runtime-main.js": "/taeung-portfolio/static/js/runtime-main.bf1f0bb2.js",
     "runtime-main.js.map": "/taeung-portfolio/static/js/runtime-main.bf1f0bb2.js.map",
-    "static/js/2.9a2180c5.chunk.js": "/taeung-portfolio/static/js/2.9a2180c5.chunk.js",
-    "static/js/2.9a2180c5.chunk.js.map": "/taeung-portfolio/static/js/2.9a2180c5.chunk.js.map",
+    "static/css/2.aef10278.chunk.css": "/taeung-portfolio/static/css/2.aef10278.chunk.css",
+    "static/js/2.b678134d.chunk.js": "/taeung-portfolio/static/js/2.b678134d.chunk.js",
+    "static/js/2.b678134d.chunk.js.map": "/taeung-portfolio/static/js/2.b678134d.chunk.js.map",
     "index.html": "/taeung-portfolio/index.html",
-    "precache-manifest.52b7712e7bc3e2433ff446bda59c56c7.js": "/taeung-portfolio/precache-manifest.52b7712e7bc3e2433ff446bda59c56c7.js",
+    "precache-manifest.e21b30df29f0b4be6831cef2503dffed.js": "/taeung-portfolio/precache-manifest.e21b30df29f0b4be6831cef2503dffed.js",
     "service-worker.js": "/taeung-portfolio/service-worker.js",
-    "static/css/main.7a95f607.chunk.css.map": "/taeung-portfolio/static/css/main.7a95f607.chunk.css.map",
-    "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/taeung-portfolio/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
+    "static/css/2.aef10278.chunk.css.map": "/taeung-portfolio/static/css/2.aef10278.chunk.css.map",
+    "static/css/main.4007c6d3.chunk.css.map": "/taeung-portfolio/static/css/main.4007c6d3.chunk.css.map",
+    "static/js/2.b678134d.chunk.js.LICENSE.txt": "/taeung-portfolio/static/js/2.b678134d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/taeung-portfolio/static/media/devicon.a5143c27.ttf",
     "static/media/sad-icon.png": "/taeung-portfolio/static/media/sad-icon.b88924d5.png",
     "static/media/your photo.png": "/taeung-portfolio/static/media/your photo.b9d7d448.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bf1f0bb2.js",
-    "static/js/2.9a2180c5.chunk.js",
-    "static/css/main.7a95f607.chunk.css",
-    "static/js/main.c4ca6ef0.chunk.js"
+    "static/css/2.aef10278.chunk.css",
+    "static/js/2.b678134d.chunk.js",
+    "static/css/main.4007c6d3.chunk.css",
+    "static/js/main.6db9f24f.chunk.js"
   ]
 }
