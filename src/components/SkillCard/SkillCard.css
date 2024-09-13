@@ -1,13 +1,14 @@
 .skill-card-main {
     margin: 0px 10px;
-    padding: 20px 30px;
+    padding: 20px;
     height: auto;
     color: #c1c2c3;
     text-align: center;
     border-radius: 16px;
     box-shadow: 13px 13px 6px rgba(0, 0, 0, 0.2);
     background-color: #212223;
-    height: 140px;
+    width: 90px;
+    height: 90px;
     transition: 0.3s ease-out;
 }
 .skill-card-main:hover {

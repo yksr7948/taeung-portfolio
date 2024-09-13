@@ -1,11 +1,8 @@
 import emoji from 'react-easy-emoji';
 
 export const greeting = {
-	username: 'Username',
-	title: 'Hello I\'m Username',
-	subTitle: emoji("subtitle ❤"),
-	role: "Your role",
-	resumeLink: "Your resume link... google drive or something else",
+	username: "Taeung's Portfolio",
+	title: '신입 개발자 김태웅의 포트폴리오 입니다.',
 	// IMPORTANT
 	// If you don't want to show this, change view to false. DO NOT DELETE!
 	view: true
@@ -14,36 +11,41 @@ export const greeting = {
 export const socialMediaLinks = {
 	// IMPORTANT
 	// if you don't have, change value to blank or false!! DO NOT DELETE!
-	github: 'Your github link',
-	linkedin: 'Your linkedin link',
-	email: 'your email link',
-	facebook: 'Your facebook link',
-	twitter: "Your twitter link",
-	instagram: "Your instagram link",
-	medium: 'Your medium link',
-	stackoverflow: 'Your stackoverflow link'
+	github: 'https://github.com/yksr7948',
 };
 
+export const aboutMe = {
+	title: "ABOUT ME",
+	view: true
+}
+
 export const skills = {
-	title: emoji("I Can Do ⚡"),
-	subTitle: "subtitle for skill",
-	describeSkills: [
-		emoji("✔ describe first"),
-		emoji("✔ describe second"),
-		emoji("✔ describe third"),
-		emoji("✔ describe forth"),
-		emoji("✔ describe fifth"),
-	],
+	title: "Skills",
 	// IMPORTANT
 	// You need to find className for font-awesome icon
 	// Go to https://fontawesome.com/ and search icon
-	lists: [
-		{fontAwesome: "fab fa-html5", text: "HTML5", proficiency: 80},
-		{fontAwesome: "fab fa-css3-alt", text: "CSS3", proficiency: 70},
-		{fontAwesome: "fab fa-js", text: "JS", proficiency: 70},
-		{fontAwesome: "fab fa-sass", text: "Sass", proficiency: 30},
-		{fontAwesome: "fab fa-react", text: "React", proficiency: 60},
-		{fontAwesome: "fab fa-aws", text: "AWS", proficiency: 20},
+	front_lists: [
+		{devicon: "devicon-html5-plain colored", text: "HTML5"},
+		{devicon: "devicon-css3-plain colored", text: "CSS3"},
+		{devicon: "devicon-javascript-plain colored", text: "JS"},
+		{devicon: "devicon-react-original colored", text: "React"},
+		{devicon: "devicon-jquery-plain colored", text: "JQuery"}
+	],
+	back_lists: [
+		{devicon: "devicon-java-plain colored", text: "JAVA"},
+		{devicon: "devicon-oracle-original colored", text: "Oracle"},
+		{devicon: "devicon-nodejs-plain colored", text: "Node.js"},
+		{devicon: "devicon-json-plain colored", text: "JSON"}
+	],
+	tool_lists: [
+		{devicon: "devicon-eclipse-plain", text: "Eclipse"},
+		{devicon: "devicon-vscode-plain colored", text: "VSCode"},
+		{devicon: "devicon-spring-original colored", text: "Spring"},
+		{devicon: "devicon-spring-original", text: "Spring Boot"}
+	],
+	collabo_lists: [
+		{devicon: "devicon-github-original", text: "GitHub"},
+		{devicon: "devicon-slack-plain", text: "slack"}
 	],
 	view: true
 };

@@ -1,0 +1,78 @@
+.section--about {
+	position: relative;
+	padding: 0 20px;
+	margin-bottom: 0;
+	text-align: center;
+	height: 90vh;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.section--about .inner {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.section--about .wrapper {
+	color: #f1f2f3;
+}
+
+.section--about .title {
+	margin-bottom: 100px;
+
+	font-size: 60px;
+	font-weight: 900;
+	color: #f1f2f3;
+	text-align: center;
+	animation: hello 2s ease-in-out;
+}
+
+.section--about .text-subtitle {
+	font-weight: 300;
+	color: #c1c2c3;
+	margin-top: 30px;
+	font-size: 24px;
+	line-height: 1.8;
+	border: 1px solid #ffffff;
+	border-radius: 8px;
+	padding: 30px;
+	text-align: left;
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+@keyframes hello {
+	0% {transform: rotate(0deg);}
+	10% {transform: rotate(-10deg);}
+	20% {transform: rotate(12deg);}
+	30% {transform: rotate(-10deg);}
+	40% {transform: rotate(9deg);}
+	50% {transform: rotate(0deg);}
+	100% {transform: rotate(0deg);}
+}
+
+/* 반응형 디자인 - 화면 크기에 따라 텍스트 크기 조정 */
+@media screen and (max-width:1380px) {
+	.section--about .title {
+		font-size: 36px;
+	}
+	.section--about .text-subtitle {
+		font-size: 18px;
+		padding: 20px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.section--about {
+		padding: 5vh 10px;
+	}
+	.section--about .title {
+		font-size: 30px;
+	}
+	.section--about .text-subtitle {
+		font-size: 16px;
+		line-height: 1.6;
+		padding: 15px;
+	}
+}

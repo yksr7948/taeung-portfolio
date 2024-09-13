@@ -1,6 +1,6 @@
 .section--hello {
 	position: relative;
-	padding: 5vh 20px;
+	padding: 0 20px;
 	margin-top: 100px;
 	margin-bottom: 0;
 	text-align: center;
@@ -18,8 +18,8 @@
 	color: #f1f2f3;
 }
 .section--hello .text-title {
-	font-size: 90px;
-	font-weight: 500;
+	font-size: 72px;
+	font-weight: 900;
 	letter-spacing: 1px;
 	word-spacing: 2px;
 }
@@ -28,19 +28,8 @@
 	transform-origin: 80% 80%;
 	animation: hello 1.8s linear infinite;
 }
-.section--hello .role {
-	margin-top: 70px;
-	font-size: 35px;
-	color: #f1f2f3;
-}
-.section--hello .text-subtitle {
-	font-weight: 300;
-	color: #c1c2c3;
-	margin-top: 50px;
-	font-size: 25px;
-	line-height: 1.5;
-}
 .section--hello .social-links {
+	margin-left: -20px;
 	margin-top: 50px;
 }
 .section--hello .wrapper-links {

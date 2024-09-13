@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import { greeting, skills, experience, openSourceProjects, projects, achievements, blogs, contactInfo } from '../../portfolio';
+import { greeting, aboutMe, skills,  projects, contactInfo } from '../../portfolio';
 
 function Header() {
 	
@@ -31,34 +31,24 @@ function Header() {
 				</div>
 
 				<ul className="nav-menu" id="toggle-nav">
+					{greeting.view && <li className="nav-list">
+						<a href="#" onClick={onClickMenu}>
+							Home
+						</a>
+					</li>}
+					{aboutMe.view && <li className="nav-list">
+						<a href="#aboutMe" onClick={onClickMenu}>
+							About
+						</a>
+					</li>}
 					{skills.view && <li className="nav-list">
 						<a href="#skills" onClick={onClickMenu}>
 							Skills
 						</a>
 					</li>}
-					{experience.view && <li className="nav-list" onClick={onClickMenu}>
-						<a href="#experience">
-							Experience
-						</a>
-					</li>}
-					{openSourceProjects.view && <li className="nav-list" onClick={onClickMenu}>
-						<a href="#opensource">
-							Open Source
-						</a>
-					</li>}
 					{projects.view && <li className="nav-list" onClick={onClickMenu}>
 						<a href="#project">
 							Projects
-						</a>
-					</li>}
-					{achievements.view && <li className="nav-list" onClick={onClickMenu}>
-						<a href="#achievement">
-							Achievements
-						</a>
-					</li>}
-					{blogs.view && <li className="nav-list" onClick={onClickMenu}>
-						<a href="#blog">
-							Blogs
 						</a>
 					</li>}
 					{contactInfo.view && <li className="nav-list" onClick={onClickMenu}>

@@ -15,15 +15,36 @@ function Skill() {
                         <p>{skills.title}</p>
                     </div>
                     <div className="skill-subtitle">
-                        <p>{skills.subTitle}</p>
+                        <p>Front-End</p>
                     </div>
                     <div className="skill-cards">
-                        {skills.lists.map((list, i) => (
+                        {skills.front_lists.map((list, i) => (
                             <SkillCard skill={list} key={i} />
                         ))}
                     </div>
-                    <div className="skill-desc">
-                        {skills.describeSkills.map((desc, i) => <p key={i}>{desc}</p>)}
+                    <div className="skill-subtitle">
+                        <p>Back-End</p>
+                    </div>
+                    <div className="skill-cards">
+                        {skills.back_lists.map((list, i) => (
+                            <SkillCard skill={list} key={i} />
+                        ))}
+                    </div>
+                    <div className="skill-subtitle">
+                        <p>Tools & Framework</p>
+                    </div>
+                    <div className="skill-cards">
+                        {skills.tool_lists.map((list, i) => (
+                            <SkillCard skill={list} key={i} />
+                        ))}
+                    </div>
+                    <div className="skill-subtitle">
+                        <p>Collaboration</p>
+                    </div>
+                    <div className="skill-cards">
+                        {skills.collabo_lists.map((list, i) => (
+                            <SkillCard skill={list} key={i} />
+                        ))}
                     </div>
                 </div>
                 </Fade>

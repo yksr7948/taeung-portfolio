@@ -18,13 +18,13 @@
     color: #f1f2f3;
 }
 .section--skill .skill-subtitle {
-    margin-top: 50px;
+    margin-top: 70px;
     font-size: 25px;
-    font-weight: 300;
+    font-weight: 600;
     color: #c1c2c3;
 }
 .section--skill .skill-cards {
-    margin-top: 50px;
+    margin-top: 40px;
     display: grid;
     grid-template-columns: repeat(auto-fit, 20%);
     row-gap: 20px;
@@ -40,6 +40,7 @@
 }
 .section--skill .skill-image {
     flex: 40%;
+    margin-right: -100px;
     font-size: 300px;
     color: #f1f1f1;
     align-self: center;
