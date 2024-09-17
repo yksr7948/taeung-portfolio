@@ -1,25 +1,24 @@
 .skill-card-main {
-    margin: 0px 10px;
-    padding: 20px;
+    padding: 15px;
     height: auto;
     color: #c1c2c3;
     text-align: center;
     border-radius: 16px;
     box-shadow: 13px 13px 6px rgba(0, 0, 0, 0.2);
     background-color: #212223;
-    width: 90px;
-    height: 90px;
+    width: 60px;
+    height: 60px;
     transition: 0.3s ease-out;
 }
 .skill-card-main:hover {
     box-shadow: 0 4px 8px rgba(38, 38, 38, 0.2);
 }
 .skill-card-main .skill-icon {
-    font-size: 40px;
+    font-size: 30px;
 }
 .skill-card-main .skill-text {
-    margin-top: 15px;
-    font-size: 22px;
+    margin-top: 10px;
+    font-size: 15px;
 }
 .skill-card-main .skill-progress-bar {
     border: 2px solid #c1c2c3;

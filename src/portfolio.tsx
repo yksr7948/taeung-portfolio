@@ -15,12 +15,12 @@ export const socialMediaLinks = {
 };
 
 export const aboutMe = {
-	title: "ABOUT ME",
+	title: "About 👤",
 	view: true
 }
 
 export const skills = {
-	title: "Skills",
+	title: "Skills ⚡",
 	// IMPORTANT
 	// You need to find className for font-awesome icon
 	// Go to https://fontawesome.com/ and search icon
@@ -51,32 +51,22 @@ export const skills = {
 };
 
 export const experience = {
-	title: "Work Experience",
+	title: "Experience ✏️",
 	lists: [
 		{
-			date: "2018.03~",
-			company: "Google",
-			role: "Front-End Developer",
+			date: "2024.07 ~ 2024.09",
+			company: "넥스트러너스",
+			role: "프론트엔드 개발 스타트 캠프",
 		},
 		{
-			date: "test",
-			company: "test",
-			role: "test",
+			date: "2024.01 ~ 2024.07",
+			company: "KH 정보 교육원",
+			role: "공공 데이터 융합 자바 개발자 양성과정",
 		},
 		{
-			date: "test",
-			company: "test",
-			role: "test",
-		},
-		{
-			date: "test",
-			company: "test",
-			role: "test",
-		},
-		{
-			date: "test",
-			company: "test",
-			role: "test",
+			date: "2017.03 ~ 2022.02",
+			company: "동양대학교",
+			role: "게임 테크 전공",
 		}
 	],
 	view: true
@@ -88,18 +78,32 @@ export const openSourceProjects = {
 }
 
 export const projects = {
-	title: emoji("Projects 💻"),
+	title: "Projects 💻",
 	subTitle: "subtitle for projects",
 	lists: [
 		{
-			title: "Project1",
-			desc: "very very very very very very very very very very very very very very long very long description for clamp testing",
-			url: "#"
+			title: "Pet Shelter",
+			desc: "유기 동물에 대한 정보와 동물 입양 신청과 교육 등 다양한 기능을 포함한 웹사이트",
+			image: "pet-logo.png",
+			duration: "2024-08 ~ 진행중",
+			skill: "#SpringBoot #OPEN API #Summernote #Java",
+			url: "https://github.com/EverymanWannabe/petShelter"
 		},
 		{
-			title: "Project2",
-			desc: "description",
-			url: "#"
+			title: "어디로 Go?",
+			desc: "다양한 여행 관련 정보를 제공하고 여행지 선택에 도움을 주는 웹사이트",
+			image: "wherego-logo.png",
+			duration: "2024-06-17 ~ 2024-07-17 (4주)",
+			skill: "#Spring Legacy #OPEN API #JavaScript #Java",
+			url: "https://github.com/yksr7948/wherego-Taeung"
+		},
+		{
+			title: "GbangE",
+			desc: "지방에서 열리는 마라톤 대회 정보를 제공하는 웹사이트",
+			image: "Gbange-logo.png",
+			duration: "2024-05-01 ~ 2024-05-17 (2주)",
+			skill: "#Eclipse #JavaScript #Java",
+			url: "https://github.com/yksr7948/PJT_GBangE-Taeung"
 		}
 	],
 	view: true
@@ -145,7 +149,5 @@ export const blogs = {
 
 export const contactInfo = {
 	title: "Contact To Me! 📞",
-	subTitle: "subtitle for contact",
-	introduce: emoji("your introduce❤"),
 	view: true
 }

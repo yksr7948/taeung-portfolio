@@ -17,18 +17,28 @@
 .section--contact .wrapper-inner {
     flex: 85% 1;
 }
-.section--contact .contact-subtitle {
-    font-size: 25px;
-    color: #c1c2c3;
-    margin-top: 50px;
-    font-weight: 300;
-}
+
 .section--contact .contact-introduce {
     margin-top: 50px;
     font-size: 25px;
     font-weight: 500;
     color: #c1c2c3;
 }
+.contact-introduce li {
+    padding: 15px 0;
+    font-size: 26px;
+    display: flex; /* 플렉스 박스로 구성 */
+    align-items: center;
+    transition: color 0.3s ease;
+}
+.contact-introduce li a {
+    text-decoration: none;
+    color: #c1c2c3;
+}
+.contact-introduce li a:hover {
+    color: #007BFF; /* 호버 시 색상 변경 */
+}
+
 .section--contact .social-links {
     margin-top: 50px;
 }

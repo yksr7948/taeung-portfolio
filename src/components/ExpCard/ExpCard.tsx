@@ -8,11 +8,11 @@ function ExpCard({ experience }: Props) {
         <div className="expcard-main">
             <div className="inner">
                     
-                <div className="expcard-role">
-                    {experience.role}
-                </div>
                 <div className="expcard-company">
                     {experience.company}
+                </div>
+                <div className="expcard-role">
+                    {experience.role}
                 </div>
                 <div className="expcard-date">
                     {experience.date}

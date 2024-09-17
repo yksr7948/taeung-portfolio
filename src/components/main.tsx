@@ -5,7 +5,6 @@ import About from './About/AboutMe';
 import Skill from './Skill/Skill';
 import Top from './topButton/Top';
 import Contact from './Contact/Contact';
-import Footer from './Footer/Footer';
 import Experience from './Experience/Experience';
 import Project from './Project/Project';
 import { greeting, aboutMe, skills, experience, projects, contactInfo } from '../portfolio';
@@ -20,7 +19,6 @@ function Main() {
 			{experience.view && <Experience />}
 			{projects.view && <Project />}
 			{contactInfo.view && <Contact />}
-			<Footer />
 			<Top />
 		</div>
 	);
