@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4c5166036f1eb558ec2415aaa0091ef",
+    "revision": "f9e837cf391f0a6c7b284367c2bc5ec6",
     "url": "/taeung-portfolio/index.html"
   },
   {
-    "revision": "cfb906e35fcae9fe0f8c",
+    "revision": "cb55bcf2b6d96ab9eff7",
     "url": "/taeung-portfolio/static/css/2.aef10278.chunk.css"
   },
   {
-    "revision": "d959b6e4a7c80ecb3df9",
-    "url": "/taeung-portfolio/static/css/main.4007c6d3.chunk.css"
+    "revision": "1daaa87e167b1cc803be",
+    "url": "/taeung-portfolio/static/css/main.dceadbdb.chunk.css"
   },
   {
-    "revision": "cfb906e35fcae9fe0f8c",
-    "url": "/taeung-portfolio/static/js/2.b678134d.chunk.js"
+    "revision": "cb55bcf2b6d96ab9eff7",
+    "url": "/taeung-portfolio/static/js/2.b041db7e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/taeung-portfolio/static/js/2.b678134d.chunk.js.LICENSE.txt"
+    "url": "/taeung-portfolio/static/js/2.b041db7e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d959b6e4a7c80ecb3df9",
-    "url": "/taeung-portfolio/static/js/main.6db9f24f.chunk.js"
+    "revision": "1daaa87e167b1cc803be",
+    "url": "/taeung-portfolio/static/js/main.cd0bcdfb.chunk.js"
   },
   {
     "revision": "e0ae88bc9d6aa54aa358",
@@ -40,8 +40,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taeung-portfolio/static/media/devicon.a5143c27.ttf"
   },
   {
+    "revision": "f1300b63062b026883a0834c0f6df025",
+    "url": "/taeung-portfolio/static/media/exit.f1300b63.svg"
+  },
+  {
+    "revision": "c5beda4839d7c30a2ff2e10641847c12",
+    "url": "/taeung-portfolio/static/media/menu.c5beda48.svg"
+  },
+  {
     "revision": "b88924d5d914bf9f3885f87c2ed76477",
     "url": "/taeung-portfolio/static/media/sad-icon.b88924d5.png"
+  },
+  {
+    "revision": "81d42abde9a9dd20417be4d9f3ccb1e2",
+    "url": "/taeung-portfolio/static/media/taeung-profile.81d42abd.jpg"
+  },
+  {
+    "revision": "fd74dc0c920a84da32667bb83602523c",
+    "url": "/taeung-portfolio/static/media/wherego-logo.fd74dc0c.png"
   },
   {
     "revision": "b9d7d448a09d6aacb45d21aab2c6fd53",
