@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/taeung-portfolio/static/css/main.dceadbdb.chunk.css",
-    "main.js": "/taeung-portfolio/static/js/main.cd0bcdfb.chunk.js",
-    "main.js.map": "/taeung-portfolio/static/js/main.cd0bcdfb.chunk.js.map",
+    "main.css": "/taeung-portfolio/static/css/main.97d9f2de.chunk.css",
+    "main.js": "/taeung-portfolio/static/js/main.76db3f88.chunk.js",
+    "main.js.map": "/taeung-portfolio/static/js/main.76db3f88.chunk.js.map",
     "runtime-main.js": "/taeung-portfolio/static/js/runtime-main.bf1f0bb2.js",
     "runtime-main.js.map": "/taeung-portfolio/static/js/runtime-main.bf1f0bb2.js.map",
     "static/css/2.aef10278.chunk.css": "/taeung-portfolio/static/css/2.aef10278.chunk.css",
     "static/js/2.b041db7e.chunk.js": "/taeung-portfolio/static/js/2.b041db7e.chunk.js",
     "static/js/2.b041db7e.chunk.js.map": "/taeung-portfolio/static/js/2.b041db7e.chunk.js.map",
     "index.html": "/taeung-portfolio/index.html",
-    "precache-manifest.b729f8ac4c145531277253bb15bf89bf.js": "/taeung-portfolio/precache-manifest.b729f8ac4c145531277253bb15bf89bf.js",
+    "precache-manifest.3862e9edc32bb98c9a0e531ae6db89df.js": "/taeung-portfolio/precache-manifest.3862e9edc32bb98c9a0e531ae6db89df.js",
     "service-worker.js": "/taeung-portfolio/service-worker.js",
     "static/css/2.aef10278.chunk.css.map": "/taeung-portfolio/static/css/2.aef10278.chunk.css.map",
-    "static/css/main.dceadbdb.chunk.css.map": "/taeung-portfolio/static/css/main.dceadbdb.chunk.css.map",
+    "static/css/main.97d9f2de.chunk.css.map": "/taeung-portfolio/static/css/main.97d9f2de.chunk.css.map",
     "static/js/2.b041db7e.chunk.js.LICENSE.txt": "/taeung-portfolio/static/js/2.b041db7e.chunk.js.LICENSE.txt",
+    "static/media/AppleTv-logo.png": "/taeung-portfolio/static/media/AppleTv-logo.6b21a823.png",
     "static/media/index.css": "/taeung-portfolio/static/media/devicon.a5143c27.ttf",
     "static/media/exit.svg": "/taeung-portfolio/static/media/exit.f1300b63.svg",
     "static/media/menu.svg": "/taeung-portfolio/static/media/menu.c5beda48.svg",
@@ -26,7 +27,7 @@
     "static/js/runtime-main.bf1f0bb2.js",
     "static/css/2.aef10278.chunk.css",
     "static/js/2.b041db7e.chunk.js",
-    "static/css/main.dceadbdb.chunk.css",
-    "static/js/main.cd0bcdfb.chunk.js"
+    "static/css/main.97d9f2de.chunk.css",
+    "static/js/main.76db3f88.chunk.js"
   ]
 }

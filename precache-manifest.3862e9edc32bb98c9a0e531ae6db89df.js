@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9e837cf391f0a6c7b284367c2bc5ec6",
+    "revision": "0deeabb733e73c4676185923528c57b3",
     "url": "/taeung-portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taeung-portfolio/static/css/2.aef10278.chunk.css"
   },
   {
-    "revision": "1daaa87e167b1cc803be",
-    "url": "/taeung-portfolio/static/css/main.dceadbdb.chunk.css"
+    "revision": "d72790fd82aa4651491b",
+    "url": "/taeung-portfolio/static/css/main.97d9f2de.chunk.css"
   },
   {
     "revision": "cb55bcf2b6d96ab9eff7",
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taeung-portfolio/static/js/2.b041db7e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1daaa87e167b1cc803be",
-    "url": "/taeung-portfolio/static/js/main.cd0bcdfb.chunk.js"
+    "revision": "d72790fd82aa4651491b",
+    "url": "/taeung-portfolio/static/js/main.76db3f88.chunk.js"
   },
   {
     "revision": "e0ae88bc9d6aa54aa358",
     "url": "/taeung-portfolio/static/js/runtime-main.bf1f0bb2.js"
+  },
+  {
+    "revision": "6b21a823bb53f0de94b4c0c12a5e67c5",
+    "url": "/taeung-portfolio/static/media/AppleTv-logo.6b21a823.png"
   },
   {
     "revision": "29c85473941049bfaf67a1ef25eb0732",
