@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0deeabb733e73c4676185923528c57b3",
+    "revision": "f75d153e1c24baa89859927bb868b6a2",
     "url": "/taeung-portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taeung-portfolio/static/css/2.aef10278.chunk.css"
   },
   {
-    "revision": "d72790fd82aa4651491b",
-    "url": "/taeung-portfolio/static/css/main.97d9f2de.chunk.css"
+    "revision": "ec26e4f558e84d0d2d2e",
+    "url": "/taeung-portfolio/static/css/main.c9dd66c0.chunk.css"
   },
   {
     "revision": "cb55bcf2b6d96ab9eff7",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taeung-portfolio/static/js/2.b041db7e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d72790fd82aa4651491b",
-    "url": "/taeung-portfolio/static/js/main.76db3f88.chunk.js"
+    "revision": "ec26e4f558e84d0d2d2e",
+    "url": "/taeung-portfolio/static/js/main.26861601.chunk.js"
   },
   {
     "revision": "e0ae88bc9d6aa54aa358",
